@@ -1,4 +1,4 @@
-# matchymatchy
+# Pixels'21 Flutter Puzzle Game
 
 ...a matching colors Flutter game! 
 
