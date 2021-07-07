@@ -54,3 +54,4 @@ create your own google-services.json and put it under android/app.
 The app comes with a sqflite db of 500 combinations of target fields + game fields. A random 
 combination is chosen.
 "# Pixels-21-puzzle-game" 
+"# Pixels-21-puzzle-game" 
